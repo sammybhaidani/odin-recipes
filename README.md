@@ -1,1 +1,2 @@
 # odin-recipes
+The goal of this project was to create a recipe site that displays three different recipes, each on a seperate page and include the ingredients for each recipe as well as the method for each recipe.
